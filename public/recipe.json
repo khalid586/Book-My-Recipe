@@ -1,0 +1,58 @@
+[
+      {
+        "recipe_image": "https://img.freepik.com/free-photo/chicken-stir-fry-vegetables_123827-21544.jpg?t=st=1710581610~exp=1710585210~hmac=ecc9d12bed85d6b4abfe352e7be2721cf4fea3407bf8bab43fbc6c5c678e2693&w=1060",
+        "recipe_id": "1",
+        "recipe_name": "Spicy Basil Chicken Stir-Fry",
+        "short_description": "A delicious and easy-to-make stir-fry with chicken and fresh basil.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushrooms"],
+        "preparing_time": 30,
+        "calories": 320
+      },
+      {
+        "recipe_image": "https://img.freepik.com/free-photo/top-view-beans-food-concept_23-2148648550.jpg?w=1060&t=st=1710581685~exp=1710582285~hmac=0a95090830924a638dfb804f399ea346e5a995a4e523ab53e34c84d9a026d523",
+        "recipe_id": "2",
+        "recipe_name": "Creamy Mushroom Risotto",
+        "short_description": "Indulge in the rich flavors of this creamy mushroom risotto.",
+        "ingredients": ["300 g Arborio rice", "500 g mushrooms", "1 onion", "100 g parmesan cheese"],
+        "preparing_time": 40,
+        "calories": 450
+      },
+      {
+        "recipe_image": "https://img.freepik.com/free-photo/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes_1150-25696.jpg?w=1060&t=st=1710581734~exp=1710582334~hmac=803eed08ba32019721c2136efb753bd1774d68c4b976d3969d5471a61acdc807",
+        "recipe_id": "3",
+        "recipe_name": "Vegetable Pad Thai",
+        "short_description": "A vibrant and flavorful Thai noodle dish loaded with vegetables.",
+        "ingredients": ["250 g rice noodles", "200 g tofu", "1 red bell pepper", "100 g bean sprouts"],
+        "preparing_time": 25,
+        "calories": 280
+      },
+      {
+        "recipe_image": "https://img.freepik.com/free-photo/tomato-salad-with-basil-red-onions_2829-11033.jpg?w=1060&t=st=1710581811~exp=1710582411~hmac=40dcf47feee7aa5ab97da4b579d631f002f3359a3dc9da19175e3776bfcef17a",
+        "recipe_id": "4",
+        "recipe_name": "Caprese Salad",
+        "short_description": "A classic Italian salad with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": ["4 large tomatoes", "200 g fresh mozzarella", "50 g fresh basil leaves", "2 tbsp balsamic vinegar"],
+        "preparing_time": 15,
+        "calories": 220
+      },
+      {
+        "recipe_image": "https://img.freepik.com/free-photo/stir-fried-spaghetti-seafood_1339-3423.jpg?w=1060&t=st=1710581860~exp=1710582460~hmac=382f3dfd34b9b0217265bee7bed5e735871c972386955ba5786e5bfac3007bca",
+        "recipe_id": "5",
+        "recipe_name": "Lemon Garlic Shrimp Pasta",
+        "short_description": "Tangy lemon and garlic complement perfectly cooked shrimp and pasta.",
+        "ingredients": ["300 g spaghetti", "300 g shrimp", "4 cloves garlic", "1 lemon"],
+        "preparing_time": 20,
+        "calories": 380
+      },
+      {
+        "recipe_image": "https://img.freepik.com/free-photo/salads-with-quinoa-arugula-radish-tomatoes-cucumber-bowl-wooden-table-healthy-food-diet-detox-vegetarian-concept_2829-6842.jpg?w=1060&t=st=1710581912~exp=1710582512~hmac=b2d0c30dec7bc724c99023222cb595483ba0d734abf50787a9aac3a3abfa9c63",
+        "recipe_id": "6",
+        "recipe_name": "Mediterranean Quinoa Salad",
+        "short_description": "A refreshing salad featuring quinoa, cucumbers, tomatoes, and olives.",
+        "ingredients": ["200 g quinoa", "1 cucumber", "200 g cherry tomatoes", "100 g olives"],
+        "preparing_time": 25,
+        "calories": 300
+      }
+]
+  
+  
